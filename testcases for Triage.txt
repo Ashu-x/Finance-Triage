@@ -1,0 +1,23 @@
+Critical requests-------------
+URGENT: Our company payroll batch TXN-9821 for 500 employees has failed. No salaries have been processed as of March 3rd 2025. Every minute of delay is affecting our workforce. 
+We need an immediate fix or escalation.
+
+FRAUD ALERT: I did NOT authorize a transaction TXN-7731 for $8,900 charged to my account ACCT-882211 today. 
+Someone has accessed my account without permission. Please block my card and freeze the account immediately.
+
+High-------------
+Transaction REF-4521 for $2,500 was debited from my account on April 5th 2025 but the payment has not reached the vendor. 
+The vendor is threatening to cancel our contract. Please investigate urgently.
+
+I was charged $1,200 twice for INV-2290 on March 10th 2025. The duplicate charge is clearly visible on my statement. 
+I need one of the charges reversed immediately as this has caused an overdraft.
+
+Medium------------
+I would like to request a refund for transaction TXN-1122 dated February 15th 2025. 
+I returned the item within the 7-day return window but $450 has not been credited back to my account yet.
+
+Please refund REF-8821 for $89.99. I cancelled my subscription on March 20th 2025 as per your cancellation policy but 
+I was still charged the next billing cycle. Please process the refund.
+
+Low-----------------
+Hello, can you tell me my current account balance and show me my last 5 transactions? I just want to review my recent spending.
